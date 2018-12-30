@@ -11,7 +11,7 @@ html, body {
   background-size: cover;  
 }
 
-html, CMtext {
+CMtext {
   margin: 0;
   padding: 24px;
   font-size: 27px;
