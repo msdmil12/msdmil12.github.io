@@ -8,5 +8,6 @@ html, body {
   background-image: url("CM_Dirt.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 400px 400px;
+  background-size: cover;
+  font-size: 15px
 }
