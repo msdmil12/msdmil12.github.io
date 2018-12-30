@@ -13,7 +13,7 @@ html, body {
 
 html, CMtext {
   margin: 0;
-  padding: 0;
+  padding: 24px;
   font-size: 15px;
   text-align: center;
 }
